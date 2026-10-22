@@ -41,7 +41,6 @@ img {
   display: block;
   cursor: pointer;
   z-index: 999;
-  background-color: transparent;
   touch-action: manipulation;
 }
 
